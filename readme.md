@@ -1,7 +1,7 @@
 TripGen
 =======
 
-## Tripcode Generator ##
+### Tripcode Generator ###
 
 This was written as an example of how to create a tripcode using Java. It uses a Java implementation
 of the unix crypt(3) command written by Eric Young, John F. Dumas, and Wes Biggs.
