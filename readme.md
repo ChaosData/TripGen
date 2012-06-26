@@ -1,6 +1,3 @@
-TripGen
-=======
-
 ### Tripcode Generator ###
 
 This was written as an example of how to create a tripcode using Java. It uses a Java implementation
